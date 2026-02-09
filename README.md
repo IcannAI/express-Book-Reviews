@@ -67,17 +67,17 @@
 
 ### 複製專案
 #### 先 Fork 再 Clone
-git clone https://github.com/你的用戶名/expressBookReviews.git
-cd expressBookReviews
+`git clone https://github.com/你的用戶名/expressBookReviews.git`
+`cd expressBookReviews`
 
 ### Installation
-npm install
+`npm install`
 
 ### 啟動開發伺服器
 #### 使用 nodemon（推薦，檔案變更自動重啟）
-npm run dev
+```npm run dev```
 #### 或使用原生 node
-npm start
+```npm start```
 #### 預設運行在 → http://localhost:5000
 
 
