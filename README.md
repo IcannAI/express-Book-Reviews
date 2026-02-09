@@ -3,10 +3,6 @@
 這是**IBM Developer Skills Network** 在 Coursera Developing Back-End Apps with Node.js and Express(使用 Node.js 與 Express 開發後端應用課程)的最終專題（Final Project）。
 一個實作完整 **RESTful API** 的書籍評論系統，包含使用者註冊/登入、JWT 認證、書籍查詢與評論的 CRUD 功能。
 
-## Table of Contents
-
-
-
 ## 專案核心主題
 - Node.js + **Express** 框架建構後端伺服器
 - 使用者認證與授權（**Session** 與 **JWT** 雙軌實作）
