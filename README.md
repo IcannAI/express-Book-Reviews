@@ -105,7 +105,7 @@
 - JavaScript（Node.js 執行環境）
 - JSON（資料交換與模擬資料庫）
 
-### Key takeways: 
+### Key takeaways: 
 - 建構RESTful API 能力
 - 理解 Session 與 JWT 認證差異與實作方式
 - 運用 Express 中間件進行權限控制
