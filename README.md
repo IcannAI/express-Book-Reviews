@@ -63,8 +63,9 @@
 
 ### 複製專案
 #### 先 Fork 再 Clone
-`git clone https://github.com/你的用戶名/expressBookReviews.git`
-`cd expressBookReviews`
+```git clone https://github.com/你的用戶名/expressBookReviews.git```
+
+```cd expressBookReviews```
 
 ### Installation
 `npm install`
